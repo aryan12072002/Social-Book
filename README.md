@@ -108,16 +108,7 @@ A feature-rich social media platform built with **Python** and **Django**, desig
 
 ---
 
-## 🖼️ Screenshots
 
-1. **Home Feed**
-   ![Home Feed](https://via.placeholder.com/600x300) <!-- Replace with actual screenshots -->
-
-2. **User Profile**
-   ![User Profile](https://via.placeholder.com/600x300)
-
-3. **Messaging**
-   ![Messaging](https://via.placeholder.com/600x300)
 
 ---
 
