@@ -1,0 +1,41 @@
+# Core dependencies
+Django==4.2         
+djangorestframework==3.14  # For building REST APIs (optional but recommended)
+
+# Authentication and User Management
+django-allauth==0.54.0  # For social authentication
+
+# Database
+mysqlclient==2.1.1      # For MySQL integration
+
+# Media file handling
+Pillow==10.0.1          # For image processing
+
+# Real-time features
+channels==4.0.0         # For WebSocket support
+channels-redis==4.0.0   # Redis backend for Django Channels
+
+# Frontend integration
+django-crispy-forms==2.0  # For better form rendering
+crispy-bootstrap5==0.7    # Bootstrap 5 integration with crispy-forms
+
+# Deployment and production
+gunicorn==20.1.0        # WSGI HTTP Server for production
+whitenoise==6.5.0       # For serving static files in production
+
+# Security
+django-environ==0.10.0  # For managing environment variables
+
+# Optional tools
+django-debug-toolbar==3.11.0  # For debugging during development
+
+# Caching (optional)
+django-redis==5.2.0     # Redis caching backend for Django
+
+# Testing
+pytest==7.4.2           # For running tests
+pytest-django==4.6.0    # Pytest plugin for Django
+factory-boy==3.3.0      # For generating test data
+
+# Other utilities
+requests==2.31.0        # For making HTTP requests (e.g., APIs)
